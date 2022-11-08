@@ -4,4 +4,4 @@ My solution to exercise 7.9. in the book "Introduction to Web Mapping" by Michae
 
 Based on Earth Observatory Natural Event Tracker (EONET) is a repository with real-time information about natural events. URL: https://eonet.gsfc.nasa.gov/
 
-Try this page here: 
+Try this page here: https://julesss-coder.github.io/natural-events-map/ 
